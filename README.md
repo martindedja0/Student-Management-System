@@ -23,3 +23,4 @@ password: django123
 
 
 > Note: First add subject, then course, then student and then marksheet/result card of him..
+[![Run on Repl.it](https://repl.it/badge/github/ehtisham91/Student-Management-System)](https://repl.it/github/ehtisham91/Student-Management-System)
